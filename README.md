@@ -1,6 +1,6 @@
 ### Olá, meu nome é Gabriel Sampaio! 
 
-Sou recém formado em Análise e Desenvolvimento de Sistemas e estou procurando uma oportunidade para poder me desenvolver profissionalmente na área. 
+Sou recém formado em Análise e Desenvolvimento de Sistemas e estou procurando uma oportunidade para poder me desenvolver profissionalmente na área. Possuo alguns projetos no meu repositório, você pode conferir através deste <a href="https://github.com/GabrielSampaio7?tab=repositories">link</a> 
 
  <div>
  <a href="https://github.com/GabrielSampaio7"></a>
