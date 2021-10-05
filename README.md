@@ -10,6 +10,8 @@
   Atualmente estou desenvolvendo na stack <a href="https://upflow.me/entendendo-o-mern-stack-o-que-e/">M.E.R.N</a> - É uma stack voltada para o desenvolvimento utilizando MongoDB, Express, React e Node. E possuo também conhecimento em React Native para desenvolvimento Mobile.  
 </p>
 
+##
+
 <div align="center">
  <a href="https://github.com/GabrielSampaio7"></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsampaio7&layout=compact&langs_count=7&theme=dracula"/>
@@ -28,21 +30,15 @@ Entre em contato comigo
 
 Aqui está listado alguns dos projetos que estão no meu repositório, você pode conferir através deste <a href="https://github.com/GabrielSampaio7?tab=repositories">link</a> todos os projetos.
 
-- React Native - App Filmes
-https://github.com/GabrielSampaio7/insider-react-native-4.0-sujeitoprogramador
+- <a href="https://github.com/GabrielSampaio7/insider-react-native-4.0-sujeitoprogramador">React Native - App Filmes</a>
 
-- Node.js / React Native / React - Chat 
-https://github.com/GabrielSampaio7/celke-chat-react
+- <a href="https://github.com/GabrielSampaio7/celke-chat-react">Node.js / React Native / React - Chat</a>
 
-- React / ASP.NET - E-Locadora
-Frontend - https://github.com/GabrielSampaio7/frontend--e-locadora
-Backend - https://github.com/GabrielSampaio7/webapi--e-locadora
+React / ASP.NET - E-Locadora
+<a href="https://github.com/GabrielSampaio7/frontend--e-locadora<">Frontend</a> e <a href="https://github.com/GabrielSampaio7/webapi--e-locadora">Backend</a>
 
-- React - Typing Game
-https://github.com/GabrielSampaio7/maratonajs-emersonbroga-typing-game
+<a href="https://github.com/GabrielSampaio7/maratonajs-emersonbroga-typing-game">- React - Typing Game</a>
 
-- HTML / CSS / Javascript - Template Admin CRUD
-https://github.com/GabrielSampaio7/crud-full-hcode
+<a href="https://github.com/GabrielSampaio7/crud-full-hcode"> HTML / CSS / Javascript - Template Admin CRUD</a>
 
-- HTML, CSS, Javascript - Flappybird Game
-https://github.com/GabrielSampaio7/flappybird-game
+<a href="https://github.com/GabrielSampaio7/flappybird-game">- HTML, CSS, Javascript - Flappybird Game</a>
