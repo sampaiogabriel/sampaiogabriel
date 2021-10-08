@@ -28,15 +28,16 @@
 
 Aqui está listado alguns dos projetos que estão no meu repositório, você pode conferir através deste <strong><a href="https://github.com/GabrielSampaio7?tab=repositories">link</a></strong> todos os projetos.
 
-- <a href="https://github.com/GabrielSampaio7/insider-react-native-4.0-sujeitoprogramador">React Native - App Filmes</a>
-
-- <a href="https://github.com/GabrielSampaio7/celke-chat-react">Node.js / React Native / React - Chat</a>
-
 - React / ASP.NET - E-Locadora
 <a href="https://github.com/GabrielSampaio7/frontend--e-locadora<">Frontend</a> e <a href="https://github.com/GabrielSampaio7/webapi--e-locadora">Backend</a>
-
-- <a href="https://github.com/GabrielSampaio7/maratonajs-emersonbroga-typing-game">React - Typing Game</a>
-
 - <a href="https://github.com/GabrielSampaio7/crud-full-hcode">HTML / CSS / Javascript - Template Admin CRUD</a>
-
 - <a href="https://github.com/GabrielSampaio7/flappybird-game">HTML, CSS, Javascript - Flappybird Game</a>
+
+## Webinar's, Workshops, Eventos
+- <a href="https://github.com/GabrielSampaio7/app-galleryphotos"> App Gallery </a> [Desafio 5 em 5 - React / Typescript - B7]
+- <a href="https://github.com/GabrielSampaio7/app-financas"> App Finanças </a> [Desafio 5 em 5 - React / Typescript - B7]
+- <a href="https://github.com/GabrielSampaio7/app-task"> App Task </a> [Desafio 5 em 5 - React / Typescript - B7]
+- <a href="https://github.com/GabrielSampaio7/insider-react-native-4.0-sujeitoprogramador">React Native - App Filmes</a> [Sujeito Programador - Insider React Native 4.0]
+- <a href="https://github.com/GabrielSampaio7/celke-chat-react">Node.js / React Native / React - Chat</a> [Celke - Semana React, React Native e Node.js]
+- <a href="https://github.com/GabrielSampaio7/maratonajs-emersonbroga-typing-game">React - Typing Game</a> [Emerson Broga - Maratona JS]
+- <a href="https://github.com/GabrielSampaio7/semana-js-expert05"> Google Drive - Clone </a> [Semana JS Expert 5.0 - Erick Wendel]
