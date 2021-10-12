@@ -34,7 +34,7 @@ Aqui está listado alguns dos projetos que estão no meu repositório, você pod
 
 ## Sites 
 
-- <a href="https://github.com/GabrielSampaio7/site-burguersshow"> Site Burguers Show </a>
+- <a href="https://github.com/GabrielSampaio7/site-burguersshow"> Burguers Show </a>
 - <a href="https://github.com/GabrielSampaio7/site-medicecenter"> Medicine Center </a>
 
 ## Webinar's, Workshops, Eventos
