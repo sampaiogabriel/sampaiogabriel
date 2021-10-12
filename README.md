@@ -30,8 +30,12 @@ Aqui está listado alguns dos projetos que estão no meu repositório, você pod
 
 - React / ASP.NET - E-Locadora
 <a href="https://github.com/GabrielSampaio7/frontend--e-locadora<">Frontend</a> e <a href="https://github.com/GabrielSampaio7/webapi--e-locadora">Backend</a>
-- <a href="https://github.com/GabrielSampaio7/crud-full-hcode">HTML / CSS / Javascript - Template Admin CRUD</a>
-- <a href="https://github.com/GabrielSampaio7/flappybird-game">HTML, CSS, Javascript - Flappybird Game</a>
+
+
+## Sites 
+
+- <a href="https://github.com/GabrielSampaio7/site-burguersshow"> Site Burguers Show </a>
+- <a href="https://github.com/GabrielSampaio7/site-medicecenter"> Medicine Center </a>
 
 ## Webinar's, Workshops, Eventos
 - <a href="https://github.com/GabrielSampaio7/app-multiform-react"> App MultiForm </a> [Desafio 5 em 5 - React / Typescript - B7]
@@ -42,3 +46,10 @@ Aqui está listado alguns dos projetos que estão no meu repositório, você pod
 - <a href="https://github.com/GabrielSampaio7/celke-chat-react">Node.js / React Native / React - Chat</a> [Celke - Semana React, React Native e Node.js]
 - <a href="https://github.com/GabrielSampaio7/maratonajs-emersonbroga-typing-game">React - Typing Game</a> [Emerson Broga - Maratona JS]
 - <a href="https://github.com/GabrielSampaio7/semana-js-expert05"> Google Drive - Clone </a> [Semana JS Expert 5.0 - Erick Wendel]
+- <a href="https://github.com/GabrielSampaio7/crud-angular-cod3r"> CRUD em Angular </a> [Curso COD3R]
+- <a href="https://github.com/GabrielSampaio7/crud-full-hcode">HTML / CSS / Javascript - Template Admin CRUD</a> [Curso HCODE]
+- <a href="https://github.com/GabrielSampaio7/most-used-words-cod3r">Most Used Words - App </a> [Curso COD3R]
+- <a href="https://github.com/GabrielSampaio7/crud-react-cod3r"> CRUD em React </a> [Curso COD3R]
+- <a href="https://github.com/GabrielSampaio7/projetogaleria-cod3r"> Galeria App </a> [Curso COD3R]
+- <a href="https://github.com/GabrielSampaio7/projetocalculadora-cod3r"> Calculadora App </a> [Curso COD3R]
+- <a href="https://github.com/GabrielSampaio7/flappybird-game">HTML, CSS, Javascript - Flappybird Game</a>
