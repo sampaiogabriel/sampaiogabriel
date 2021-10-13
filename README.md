@@ -31,11 +31,10 @@ Aqui está listado alguns dos projetos que estão no meu repositório, você pod
 - React / ASP.NET - E-Locadora
 <a href="https://github.com/GabrielSampaio7/frontend--e-locadora<">Frontend</a> e <a href="https://github.com/GabrielSampaio7/webapi--e-locadora">Backend</a>
 
-
 ## Sites 
 
-- <a href="https://github.com/GabrielSampaio7/site-burguersshow"> Burguers Show </a>
-- <a href="https://github.com/GabrielSampaio7/site-medicecenter"> Medicine Center </a>
+[![card](https://github-readme-stats.vercel.app/api/pin/?username=GabrielSampaio7&repo=site-burguersshow)](https://github.com/GabrielSampaio7/site-burguersshow)
+[![card](https://github-readme-stats.vercel.app/api/pin/?username=GabrielSampaio7&repo=site-medicecenter)](https://github.com/GabrielSampaio7/site-medicecenter)
 
 ## Webinar's, Workshops, Eventos
 - <a href="https://github.com/GabrielSampaio7/app-multiform-react"> App MultiForm </a> [Desafio 5 em 5 - React / Typescript - B7]
