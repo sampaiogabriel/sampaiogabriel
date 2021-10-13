@@ -33,10 +33,9 @@ Aqui está listado alguns dos projetos que estão no meu repositório, você pod
 
 ## Sites 
 
-<div align="center">
   [![card](https://github-readme-stats.vercel.app/api/pin/?username=GabrielSampaio7&repo=site-burguersshow)](https://github.com/GabrielSampaio7/site-burguersshow)
   [![card](https://github-readme-stats.vercel.app/api/pin/?username=GabrielSampaio7&repo=site-medicecenter)](https://github.com/GabrielSampaio7/site-medicecenter)
-</div>
+
 
 ## Webinar's, Workshops, Eventos
 - <a href="https://github.com/GabrielSampaio7/app-multiform-react"> App MultiForm </a> [Desafio 5 em 5 - React / Typescript - B7]
