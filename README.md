@@ -38,6 +38,7 @@ Aqui está listado alguns dos projetos que estão no meu repositório, você pod
 
 
 ## Webinar's, Workshops, Eventos
+- <a href="https://github.com/GabrielSampaio7/pokedex"> Pokedéx </a> [Pokedéx em React]
 - <a href="https://github.com/GabrielSampaio7/app-multiform-react"> App MultiForm </a> [Desafio 5 em 5 - React / Typescript - B7]
 - <a href="https://github.com/GabrielSampaio7/app-galleryphotos"> App Gallery </a> [Desafio 5 em 5 - React / Typescript - B7]
 - <a href="https://github.com/GabrielSampaio7/app-financas"> App Finanças </a> [Desafio 5 em 5 - React / Typescript - B7]
