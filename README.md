@@ -29,7 +29,7 @@
 Aqui está listado alguns dos projetos que estão no meu repositório, você pode conferir através deste <strong><a href="https://github.com/GabrielSampaio7?tab=repositories">link</a></strong> todos os projetos.
 
 - React / ASP.NET - E-Locadora
-<a href="https://github.com/GabrielSampaio7/frontend--e-locadora<">Frontend</a> e <a href="https://github.com/GabrielSampaio7/webapi--e-locadora">Backend</a>
+<a href="https://github.com/GabrielSampaio7/frontend--e-locadora">Frontend</a> e <a href="https://github.com/GabrielSampaio7/webapi--e-locadora">Backend</a>
 
 ## Sites 
 
