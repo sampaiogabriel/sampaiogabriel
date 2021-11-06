@@ -24,21 +24,21 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsampaio7&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-## Repositório
+# Repositório
 
 Aqui está listado alguns dos projetos que estão no meu repositório, você pode conferir através deste <strong><a href="https://github.com/GabrielSampaio7?tab=repositories">link</a></strong> todos os projetos.
 
+## Sites 
+  [![card](https://github-readme-stats.vercel.app/api/pin/?username=GabrielSampaio7&repo=jokenpo)](https://github.com/GabrielSampaio7/jokenpo) 
+  <br />
+  [![card](https://github-readme-stats.vercel.app/api/pin/?username=GabrielSampaio7&repo=site-burguersshow)](https://github.com/GabrielSampaio7/site-burguersshow)
+
+## Projetos, Webinar's, Workshops, Eventos
+- <a href="https://github.com/GabrielSampaio7/jokenpo"> Jokenpô </a> - HTML, CSS e Javascript.
 - React / ASP.NET - E-Locadora
 <a href="https://github.com/GabrielSampaio7/frontend--e-locadora">Frontend</a> e <a href="https://github.com/GabrielSampaio7/webapi--e-locadora">Backend</a>
-
-## Sites 
-
-  [![card](https://github-readme-stats.vercel.app/api/pin/?username=GabrielSampaio7&repo=site-burguersshow)](https://github.com/GabrielSampaio7/site-burguersshow)
-  [![card](https://github-readme-stats.vercel.app/api/pin/?username=GabrielSampaio7&repo=site-medicecenter)](https://github.com/GabrielSampaio7/site-medicecenter)
-
-
-## Webinar's, Workshops, Eventos
 - <a href="https://github.com/GabrielSampaio7/pokedex"> Pokedéx </a> [Pokedéx em React]
+- <a href="https://github.com/GabrielSampaio7/site-medicecenter"> Medice Center </a> [Site Medice Center - Responsividade]
 - <a href="https://github.com/GabrielSampaio7/app-multiform-react"> App MultiForm </a> [Desafio 5 em 5 - React / Typescript - B7]
 - <a href="https://github.com/GabrielSampaio7/app-galleryphotos"> App Gallery </a> [Desafio 5 em 5 - React / Typescript - B7]
 - <a href="https://github.com/GabrielSampaio7/app-financas"> App Finanças </a> [Desafio 5 em 5 - React / Typescript - B7]
