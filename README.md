@@ -36,6 +36,7 @@ Aqui está listado alguns dos projetos que estão no meu repositório, você pod
 ## Projetos, Webinar's, Workshops, Eventos
 - <a href="https://github.com/GabrielSampaio7/jokenpo"> Jokenpô </a> - HTML, CSS e Javascript.
 - React / ASP.NET - E-Locadora
+- <a href="https://github.com/GabrielSampaio7/controle-financeiro-js"> Controle Financeiro </a> - HTML, CSS e JAVASCRIPT 
 <a href="https://github.com/GabrielSampaio7/frontend--e-locadora">Frontend</a> e <a href="https://github.com/GabrielSampaio7/webapi--e-locadora">Backend</a>
 - <a href="https://github.com/GabrielSampaio7/pokedex"> Pokedéx </a> [Pokedéx em React]
 - <a href="https://github.com/GabrielSampaio7/site-medicecenter"> Medice Center </a> [Site Medice Center - Responsividade]
