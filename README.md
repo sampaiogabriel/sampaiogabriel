@@ -31,9 +31,10 @@ Aqui está listado alguns dos projetos que estão no meu repositório, você pod
 ## Sites 
   [![card](https://github-readme-stats.vercel.app/api/pin/?username=GabrielSampaio7&repo=jokenpo)](https://github.com/GabrielSampaio7/jokenpo) 
   <br />
-  [![card](https://github-readme-stats.vercel.app/api/pin/?username=GabrielSampaio7&repo=site-burguersshow)](https://github.com/GabrielSampaio7/site-burguersshow)
+  [![card](https://github-readme-stats.vercel.app/api/pin/?username=GabrielSampaio7&repo=climatempo)](https://github.com/GabrielSampaio7/climatempo)
 
 ## Projetos, Webinar's, Workshops, Eventos
+- <a href="https://github.com/GabrielSampaio7/climatempo"> ClimaTempo </a> - HTML, CSS e Javascript
 - <a href="https://github.com/GabrielSampaio7/jokenpo"> Jokenpô </a> - HTML, CSS e Javascript.
 - React / ASP.NET - E-Locadora
 - <a href="https://github.com/GabrielSampaio7/controle-financeiro-js"> Controle Financeiro </a> - HTML, CSS e JAVASCRIPT 
