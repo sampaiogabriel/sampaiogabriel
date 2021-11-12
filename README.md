@@ -3,7 +3,7 @@
 <img src="pc.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
 
 <p align="left"> 
-  Sou formado em Análise e Desenvolvimento de Sistemas e formado em Técnico de Informática. Desde sempre apaixonado com tecnologia e atualmente, busco estudar ao máximo sobre Javascript. Você pode conferir algum dos meus projetos através deste <a href="https://github.com/GabrielSampaio7?tab=repositories">link</a>.
+  Sou formado em Análise e Desenvolvimento de Sistemas e formado em Técnico de Informática. Desde sempre apaixonado com tecnologia e atualmente, busco estudar ao máximo sobre Javascript. Você pode conferir algum dos meus projetos através deste <a href="https://github.com/GabrielSampaio7?tab=repositories">link</a>. Let's code! 💻
 </p>
 
 <p align="left">
