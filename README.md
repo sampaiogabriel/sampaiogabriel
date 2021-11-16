@@ -34,6 +34,7 @@ Aqui está listado alguns dos projetos que estão no meu repositório, você pod
   [![card](https://github-readme-stats.vercel.app/api/pin/?username=GabrielSampaio7&repo=climatempo)](https://github.com/GabrielSampaio7/climatempo)
 
 ## Projetos, Webinar's, Workshops, Eventos
+- <a href="https://github.com/GabrielSampaio7/calculadora-cerveja"> Calculadora Cerveja </a> - HTML, CSS e Javascript
 - <a href="https://github.com/GabrielSampaio7/converter-moeda"> Converter Moeda/Câmbio </a> - HTML, CSS e Javascript
 - <a href="https://github.com/GabrielSampaio7/climatempo"> ClimaTempo </a> - HTML, CSS e Javascript
 - <a href="https://github.com/GabrielSampaio7/jokenpo"> Jokenpô </a> - HTML, CSS e Javascript.
