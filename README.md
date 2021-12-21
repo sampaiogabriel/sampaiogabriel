@@ -1,4 +1,4 @@
-### Olá, meu nome é Gabriel Sampaio!
+### Olá, 🤘 eu sou Gabriel Sampaio!
 
 <img src="pc.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
 
