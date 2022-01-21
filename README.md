@@ -1,4 +1,4 @@
-### Olá, 🤘 eu sou <a href="https://gabrielsampaio7.github.io/portfolio/">Gabriel Sampaio</a>!
+### Olá, 🤘 eu sou <a href="https://sampaiogabriel.github.io/portfolio/">Gabriel Sampaio</a>!
 
 <img src="pc.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
 
