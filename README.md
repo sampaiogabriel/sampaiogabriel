@@ -31,13 +31,13 @@ Aqui está listado alguns dos projetos que estão no meu repositório, você pod
 ## Sites 
   [![card](https://github-readme-stats.vercel.app/api/pin/?username=sampaiogabriel&repo=jokenpo)](https://github.com/sampaiogabriel/jokenpo) 
   <br />
-  [![card](https://github-readme-stats.vercel.app/api/pin/?username=sampaiogabriel&repo=climatempo)](https://github.com/sampaiogabriel/climatempo)
+  [![card](https://github-readme-stats.vercel.app/api/pin/?username=sampaiogabriel&repo=clima-tempo)](https://github.com/sampaiogabriel/clima-tempo)
 
 ## Projetos, Webinar's, Workshops, Eventoss
 - <a href="https://sampaiogabriel.github.io/site-feliz-natal/"> Feliz Natal </a> - [Desafio IuriCode Codelância]
 - <a href="https://github.com/sampaiogabriel/calculadora-cerveja"> Calculadora Cerveja </a> - HTML, CSS e Javascript
 - <a href="https://github.com/sampaiogabriel/converter-moeda"> Converter Moeda/Câmbio </a> - HTML, CSS e Javascript
-- <a href="https://github.com/sampaiogabriel/climatempo"> ClimaTempo </a> - HTML, CSS e Javascript
+- <a href="https://github.com/sampaiogabriel/clima-tempo"> ClimaTempo </a> - HTML, CSS e Javascript
 - <a href="https://github.com/sampaiogabriel/jokenpo"> Jokenpô </a> - HTML, CSS e Javascript.
 - <a href="https://github.com/sampaiogabriel/controle-financeiro-js"> Controle Financeiro </a> - HTML, CSS e JAVASCRIPT 
 <a href="https://github.com/sampaiogabriel/frontend--e-locadora">Frontend</a> e <a href="https://github.com/sampaiogabriel/webapi--e-locadora">Backend</a>
