@@ -24,16 +24,24 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sampaiogabriel&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-# Repositório
+
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<hr>
+
+# Estudos Webinar's, Workshops, Eventos
 
 Aqui está listado alguns dos projetos que estão no meu repositório, você pode conferir através deste <strong><a href="https://github.com/sampaiogabriel?tab=repositories">link</a></strong> todos os projetos.
 
-## Sites 
   [![card](https://github-readme-stats.vercel.app/api/pin/?username=sampaiogabriel&repo=jokenpo)](https://github.com/sampaiogabriel/jokenpo) 
   <br />
   [![card](https://github-readme-stats.vercel.app/api/pin/?username=sampaiogabriel&repo=clima-tempo)](https://github.com/sampaiogabriel/clima-tempo)
 
-## Projetos, Webinar's, Workshops, Eventoss
 - <a href="https://sampaiogabriel.github.io/site-feliz-natal/"> Feliz Natal </a> - [Desafio IuriCode Codelância]
 - <a href="https://github.com/sampaiogabriel/calculadora-cerveja"> Calculadora Cerveja </a> - HTML, CSS e Javascript
 - <a href="https://github.com/sampaiogabriel/converter-moeda"> Converter Moeda/Câmbio </a> - HTML, CSS e Javascript
