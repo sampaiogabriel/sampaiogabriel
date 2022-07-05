@@ -17,38 +17,32 @@
   <a href="https://www.linkedin.com/in/gabrielsampaiolimadearaujo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-##
+<br>
+<br>
 
 <div align="center">
  <a href="https://github.com/sampaiogabriel"></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sampaiogabriel&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+<br>
+<br>
 
-
-
-<br>
-<br>
-<br>
-<br>
-<br>
 <hr>
 
-# Estudos Webinar's, Workshops, Eventos
+## Projetos de Estudo
 
 Aqui está listado alguns dos projetos que estão no meu repositório, você pode conferir através deste <strong><a href="https://github.com/sampaiogabriel?tab=repositories">link</a></strong> todos os projetos.
 
-  [![card](https://github-readme-stats.vercel.app/api/pin/?username=sampaiogabriel&repo=jokenpo)](https://github.com/sampaiogabriel/jokenpo) 
-  <br />
-  [![card](https://github-readme-stats.vercel.app/api/pin/?username=sampaiogabriel&repo=clima-tempo)](https://github.com/sampaiogabriel/clima-tempo)
-
+- <a href="https://sampaiogabriel.github.io/clima-tempo"> Clima Tempo </a> [Site feito em HTML, CSS, Javascript consumindo a API Tempo]
+- <a href="https://sampaiogabriel.github.io/jokenpo"> Jokenpo JS </a> [Tradicional jogo de mãos, feito em HTML, CSS e Javascript]
 - <a href="https://sampaiogabriel.github.io/site-feliz-natal/"> Feliz Natal </a> - [Desafio IuriCode Codelância]
 - <a href="https://github.com/sampaiogabriel/calculadora-cerveja"> Calculadora Cerveja </a> - HTML, CSS e Javascript
 - <a href="https://github.com/sampaiogabriel/converter-moeda"> Converter Moeda/Câmbio </a> - HTML, CSS e Javascript
 - <a href="https://github.com/sampaiogabriel/clima-tempo"> ClimaTempo </a> - HTML, CSS e Javascript
 - <a href="https://github.com/sampaiogabriel/jokenpo"> Jokenpô </a> - HTML, CSS e Javascript.
-- <a href="https://github.com/sampaiogabriel/controle-financeiro-js"> Controle Financeiro </a> - HTML, CSS e JAVASCRIPT 
-<a href="https://github.com/sampaiogabriel/frontend--e-locadora">Frontend</a> e <a href="https://github.com/sampaiogabriel/webapi--e-locadora">Backend</a>
+- <a href="https://github.com/sampaiogabriel/controle-financeiro-js"> Controle Financeiro </a> - HTML, CSS e Javascript
+  <a href="https://github.com/sampaiogabriel/frontend--e-locadora">Frontend</a> e <a href="https://github.com/sampaiogabriel/webapi--e-locadora">Backend</a>
 - <a href="https://github.com/sampaiogabriel/pokedex"> Pokedéx </a> [Pokedéx em React]
 - <a href="https://github.com/sampaiogabriel/site-medicecenter"> Medice Center </a> [Site Medice Center - Responsividade]
 - <a href="https://github.com/sampaiogabriel/app-multiform-react"> App MultiForm </a> [Desafio 5 em 5 - React / Typescript - B7]
@@ -65,4 +59,4 @@ Aqui está listado alguns dos projetos que estão no meu repositório, você pod
 - <a href="https://github.com/sampaiogabriel/crud-react-cod3r"> CRUD em React </a> [Curso COD3R]
 - <a href="https://github.com/sampaiogabriel/projetogaleria-cod3r"> Galeria App </a> [Curso COD3R]
 - <a href="https://github.com/sampaiogabriel/projetocalculadora-cod3r"> Calculadora App </a> [Curso COD3R]
-- <a href="https://github.com/sampaiogabriel/flappybird-game">HTML, CSS, Javascript - Flappybird Game</a>
+- <a href="https://github.com/sampaiogabriel/flappybird-game">HTML, CSS, Javascript - Flappybird Game</a> - [Baseado no famoso jogo mobile Flappybird]
