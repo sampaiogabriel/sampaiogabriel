@@ -1,9 +1,9 @@
-### Olá, 🤘 eu sou <a href="https://sampaiogabriel.github.io/portfolio/">Gabriel Sampaio</a>!
+### Olá, 🤘 eu sou <a href="https://www.linkedin.com/in/gabrielsampaiolimadearaujo/">Gabriel Sampaio</a>!
 
 <img src="pc.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
 
 <p align="left"> 
-  Sou formado em Análise e Desenvolvimento de Sistemas e formado em Técnico de Informática. Desde sempre apaixonado com tecnologia e atualmente, busco estudar ao máximo sobre Javascript. Você pode conferir algum dos meus projetos através deste <a href="https://github.com/sampaiogabriel?tab=repositories">link</a>. Let's code! 💻
+  Sou formado em Análise e Desenvolvimento de Sistemas e formado em Técnico de Informática. Desde sempre apaixonado com tecnologia e atualmente, busco aprimorar meus conhecimentos em Javascript. Você pode conferir algum dos meus projetos através deste <a href="https://github.com/sampaiogabriel?tab=repositories">link</a>. Let's code! 💻
 </p>
 
 <p align="left">
@@ -30,9 +30,25 @@
 
 <hr>
 
-## Projetos de Estudo
+## 👨‍💻 - Principais projetos
 
-Aqui está listado alguns dos projetos que estão no meu repositório, você pode conferir através deste <strong><a href="https://github.com/sampaiogabriel?tab=repositories">link</a></strong> todos os projetos.
+### Landpages
+
+- <a href="https://sampaiogabriel.github.io/portfolio/"> Portfólio Pessoal </a>
+- <a href="https://sampaiogabriel.github.io/site-feliz-natal/"> Feliz Natal </a> - Landpage temática de Natal
+
+### Projetos
+
+<small> -> Em breve </small>
+
+<br>
+<br>
+
+<hr>
+
+## 📚 - Todos os projetos de estudo
+
+Aqui está listado alguns dos projetos que estão no meu repositório, você pode conferir através deste <strong><a href="https://github.com/sampaiogabriel?tab=repositories">link</a></strong> todos os projetos. Essa lista contém uma timeline de todo o conhecimento adquirido com os anos de estudos.
 
 - <a href="https://sampaiogabriel.github.io/clima-tempo"> Clima Tempo </a> [Site feito em HTML, CSS, Javascript consumindo a API Tempo]
 - <a href="https://sampaiogabriel.github.io/jokenpo"> Jokenpo JS </a> [Tradicional jogo de mãos, feito em HTML, CSS e Javascript]
