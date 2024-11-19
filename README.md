@@ -1,21 +1,16 @@
-### Olá, 🤘 eu sou <a href="https://www.linkedin.com/in/gabrielsampaiolimadearaujo/">Gabriel Sampaio</a>!
+### Olá, eu sou <a href="https://www.linkedin.com/in/gabrielsampaiolimadearaujo/">Gabriel Sampaio</a>!
 
 <img src="pc.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
 
 <p align="left"> 
-  Sou formado em Análise e Desenvolvimento de Sistemas e formado em Técnico de Informática. Desde sempre apaixonado com tecnologia e atualmente, busco aprimorar meus conhecimentos em Javascript. Você pode conferir algum dos meus projetos através deste <a href="https://github.com/sampaiogabriel?tab=repositories">link</a>. Let's code! 💻
+    Sou formado em Análise e Desenvolvimento de Sistemas pelo Instituto Vianna Júnior (Juiz de Fora - MG) e atualmente desenvolvedor front-end, especializado em desenvolvimento de sistemas utilizando a tecnologia React e todo seu ecossistema (HTML, CSS, Javascript + Typescript, React.js, Next.js, Microfrontends, Single SPA, etc)
+
+  Possuo também experiência em criação de landing pages com foco em diretrizes de UI/UX para impulsionar vendas e engajamento.
+
+  Proficiente tanto no desenvolvimento quanto no design, transitando facilmente entre as duas áreas para garantir funcionalidade e criatividade
+
+   Você pode conferir algum dos meus projetos através destes <a href="https://github.com/sampaiogabriel?tab=repositories"> repositórios</a>. Let's code! 💻
 </p>
-
-<p align="left">
-  Atualmente estou desenvolvendo na stack <a href="https://upflow.me/entendendo-o-mern-stack-o-que-e/">M.E.R.N</a> - É uma stack voltada para o desenvolvimento utilizando MongoDB, Express, React e Node. E possuo também conhecimento em React Native para desenvolvimento Mobile.  
-</p>
-
-<p align="left"><strong>Entre em contato comigo</strong></p>
-
-<div align="left"> 
-  <a href = "mailto:sampaiogabriel777@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabrielsampaiolimadearaujo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
 
 <br>
 <br>
@@ -25,31 +20,20 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sampaiogabriel&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-<br>
-<br>
+<p align="left"><strong>Entre em contato comigo</strong></p>
 
-<hr>
+<div align="left"> 
+  <a href = "mailto:sampaiogabriel777@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gabrielsampaiolimadearaujo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
-## 👨‍💻 - Principais projetos
 
-### Landpages
-
-- <a href="https://sampaiogabriel.github.io/portfolio/"> Portfólio Pessoal </a>
-- <a href="https://sampaiogabriel.github.io/site-feliz-natal/"> Feliz Natal </a> - Landpage temática de Natal
-
-### Projetos
-
-<small> -> Em breve </small>
-
-<br>
-<br>
-
-<hr>
-
-## 📚 - Todos os projetos de estudo
+## 📚 - Demais projetos
 
 Aqui está listado alguns dos projetos que estão no meu repositório, você pode conferir através deste <strong><a href="https://github.com/sampaiogabriel?tab=repositories">link</a></strong> todos os projetos. Essa lista contém uma timeline de todo o conhecimento adquirido com os anos de estudos.
 
+- <a href="https://sampaiogabriel.github.io/portfolio/"> Portfólio Pessoal </a>
+- <a href="https://sampaiogabriel.github.io/site-feliz-natal/"> Feliz Natal </a> - Landpage temática de Natal
 - <a href="https://sampaiogabriel.github.io/clima-tempo"> Clima Tempo </a> [Site feito em HTML, CSS, Javascript consumindo a API Tempo]
 - <a href="https://sampaiogabriel.github.io/jokenpo"> Jokenpo JS </a> [Tradicional jogo de mãos, feito em HTML, CSS e Javascript]
 - <a href="https://sampaiogabriel.github.io/site-feliz-natal/"> Feliz Natal </a> - [Desafio IuriCode Codelância]
