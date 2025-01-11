@@ -10,6 +10,8 @@
 - ReactJS, NextJS, React Native  
 - Typescript, Javascript  
 - HTML5, CSS3, Acessibilidade  
+- Micro-frontends
+- Storybook
 
 #### Backend  
 - Node.js, Express.js  
