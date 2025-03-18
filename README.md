@@ -9,7 +9,7 @@
 #### Frontend  
 - ReactJS, NextJS, React Native  
 - Typescript, Javascript  
-- HTML5, CSS3, Acessibilidade  
+- HTML5, CSS3 + TailwindCSS, Acessibilidade  
 - Micro-frontends
 - Storybook
 
