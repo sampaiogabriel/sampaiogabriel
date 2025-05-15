@@ -1,7 +1,5 @@
 # Hi, I'm <a href="https://www.linkedin.com/in/gabrielsampaiolimadearaujo/">Gabriel Sampaio</a>!
 
-<img src="/pc.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
-
 <p align="left"> 
 I'm a Fullstack Developer specialized in building scalable and high-performance web applications using React.js, Next.js, and Node.js.
 
