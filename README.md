@@ -13,5 +13,5 @@ I'm a Fullstack Developer specialized in building scalable and high-performance 
 
 ##
 
-💬 Open to collaborate on React, Next.js, and modern web engineering projects.  
+💬 Open to collaborate on React, Next.js, Node.js, and modern web engineering projects.  
 📫 Let’s connect on [LinkedIn](https://linkedin.com/in/gabrielsampaiolima) or explore my code below!
