@@ -4,9 +4,8 @@
 I'm a Fullstack Developer specialized in building scalable and high-performance web applications using React.js, Next.js, and Node.js.
 
 🔧 I work with modern frontend architecture, including micro-frontends, design systems, and reusable UI components.  
+🧠 On the backend, I build robust APIs and services using Node.js, Express, Prisma, and other modern technologies like NestJS, MongoDB, MySQL, Firebase, and more. Always aiming for clean architecture, security, and scalability.
 🚀 Passionate about clean code, developer experience, and performance optimization.
-
-Currently working at e-Auditoria, where I lead frontend initiatives and contribute to internal tools, legacy refactors, and strategic features that support business growth.
 
 </p>
 
