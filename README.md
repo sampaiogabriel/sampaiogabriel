@@ -4,17 +4,18 @@
   </a>
 </p>
 
-# Hi, I'm Gabriel Sampaio! 👋
+<br />
 
-I'm a **Fullstack Engineer** specialized in building scalable, high-performance web applications.
+<h3 align="center">Founder & Software Engineer</h3>
 
-I work at the intersection of robust software architecture, clean code, and refined user experiences (UX). My focus is on building modern digital solutions ranging from complex systems to high-traffic platforms.
+<p align="center">
+  Leading <b>codesampa.io</b> in building high-impact digital solutions.
+  <br />
+  Expert in software architecture, full-stack development, and product strategy.
+</p>
 
-📫 **Let's connect:** [LinkedIn](https://linkedin.com/in/gabrielsampaiolimadearaujo)
-
----
-
-### 🌐 Meet my Software House
-Turning code into digital businesses.
-
-👉 **[Visit: codesampa.io](https://codesampa.io)**
+<p align="center">
+  <a href="https://codesampa.io">🌐 codesampa.io</a> • 
+  <a href="https://linkedin.com/in/your-username">👔 LinkedIn</a> • 
+  <a href="mailto:contato@codesampa.io">📧 Contact</a>
+</p>
