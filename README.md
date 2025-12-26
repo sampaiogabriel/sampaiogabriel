@@ -4,8 +4,6 @@
   </a>
 </p>
 
-<br />
-
 <h3 align="center">Founder & Software Engineer</h3>
 
 <p align="center">
