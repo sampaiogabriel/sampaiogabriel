@@ -16,6 +16,6 @@
 
 <p align="center">
   <a href="https://codesampa.io">🌐 codesampa.io</a> • 
-  <a href="https://linkedin.com/in/your-username">👔 LinkedIn</a> • 
-  <a href="mailto:contato@codesampa.io">📧 Contact</a>
+  <a href="https://www.linkedin.com/in/gabrielsampaiolimadearaujo">👔 LinkedIn</a> • 
+  <a href="mailto:gabrielsampaiolima@hotmail.com">📧 Contact</a>
 </p>
